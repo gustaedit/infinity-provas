@@ -10,7 +10,7 @@ for contador in range(1, 5):
 
     
 
-    if numero % 2 == 0:
-
+    if numero % 2 == 0: 
+  
         print(numero)
 
