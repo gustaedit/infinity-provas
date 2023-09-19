@@ -1,0 +1,13 @@
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.retangulo {
+    width: 400px;
+    height: 200px;
+    background: linear-gradient(to right, blue 50%, yellow 50%);
+}
