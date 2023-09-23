@@ -17,7 +17,7 @@ class Gato(Animal):
     def fazer_som(self):
         print("O gato mia: Meow! Meow!")
 
-# Instanciando objetos das classes
+
 animal_generico = Animal()
 marley = Cachorro()
 gordinha = Gato()
